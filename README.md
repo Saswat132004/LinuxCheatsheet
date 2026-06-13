@@ -24,3 +24,6 @@ nmap -sV -sC 192.168.56.102# Perform service version parsing and run safety comp
 tail -n 20 /var/log/syslog # Output the 20 most recent system kernel logging records
 tail -f /var/log/auth.log  # Run real-time streaming audit monitor over authentication/login files
 grep -E "fail|error" boot.log# Filter out explicit boot instances matching case-insensitive security errors
+<img width="847" height="621" alt="Screenshot 2026-06-14 014730" src="https://github.com/user-attachments/assets/1d008042-43ac-4059-9016-7b8d55111ac8" />
+<img width="955" height="860" alt="Screenshot 2026-06-14 015235" src="https://github.com/user-attachments/assets/fa26f658-2597-44c2-84c0-c3c70678541c" />
+
